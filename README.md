@@ -6,3 +6,9 @@
 ## RL: Intrinsic Reward, Exploration
   1. Savinov et. al., 2018 [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274)
     : Google Brain/ Deepmind/ ETH Zurich work
+## RL: Reward Design
+  1. Deepmind, NeurIPS, 2018 [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/pdf/1811.06521.pdf)
+  2. 
+## DRL, IRL, Imitation Learning 
+  1. Deepmind, AAAI 2018 [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732)
+  
