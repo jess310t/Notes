@@ -12,3 +12,6 @@
 ## DRL, IRL, Imitation Learning 
   1. Deepmind, AAAI 2018 [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732)
   
+## NeurIPS 2018
+  1. [End-to-End Differentiable Physics for Learning and Control](https://neurips.cc/media/Slides/nips/2018/220cd(05-09-45)-05-09-55-12624-End-to-End_Diff.pdf)
+  
