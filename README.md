@@ -13,5 +13,7 @@
   1. Deepmind, AAAI 2018 [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732)
   
 ## NeurIPS 2018
-  1. [End-to-End Differentiable Physics for Learning and Control](https://neurips.cc/media/Slides/nips/2018/220cd(05-09-45)-05-09-55-12624-End-to-End_Diff.pdf)
-  
+  1. [End-to-End Differentiable Physics for Learning and Control](https://neurips.cc/media/Slides/nips/2018/220cd(05-09-45)-05-09-55-12624-End-to-End_Diff.pdf); [paper](https://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control.pdf)
+  2. [Efficient Online Portfolio with Logarithmic Regret] (https://neurips.cc/Conferences/2018/Schedule?showEvent=12624) : number of rounds, stocks and maximum relative ratio; use regularizer to avoid too extreme distribution over stocks, increase the learning rate of worse stocks for faster recovery, restarting to adapt to maximum relative ratio
+  3. [Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing](https://neurips.cc/Conferences/2018/Schedule?showEvent=12624):deterministic environment with sparse rewards
+  4. 
