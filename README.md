@@ -2,7 +2,14 @@
 ## AKI
   1. Lee et. al., 2018 [Prediction of Acute Kidney Injury after Liver Transplantation: Machine Learning Approaches vs. Logistic Regression Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6262324/)
   2. Burckhardt et al. 2018, [Multi-Trajectory Modeling to Predict Acute Kidney Injury in Chronic Kidney Disease Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371306/) , AMIA Annu Symp Proc
-
+  3. Adhikari et al., [Improved predictive models for acute kidney injury with IDEA: Intraoperative Data Embedded Analytics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448850/)
+  4. Zimmerman et al., [Early prediction of acute kidney injury following ICU admission using a multivariate panel of physiological measurements](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-019-0733-z)
+  5. Tomasev 2019, Nature, [A clinically applicable approach to continuous prediction of future acute kidney injury](https://www.nature.com/articles/s41586-019-1390-1)
+  6. Miksch, [Artificial Intelligence for Decision Support: Needs, Possibilities, and Limitations in ICU](https://link.springer.com/chapter/10.1007/978-88-470-2203-4_85)
+  7. Cismondi, 2013, [Reducing unnecessary lab testing in the ICU with artificial intelligence](https://www.sciencedirect.com/science/article/pii/S1386505612002420#bib0145)
+  8. Choi, 2016, [DoctorAI: Predicting Clinical Events via RNN]http://nematilab.info/bmijc/assets/170607_paper.pdf
+## ODEnet
+  1.Schiebinger, 2019, Cell, [Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) 
 ## RL: Collaborative, Interactive, Robotics
   1. Anca Dragon, 2017, 
   [Robot Planning with Mathematical Models of Human State and Action](https://arxiv.org/abs/1705.04226)
