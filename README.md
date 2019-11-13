@@ -1,4 +1,8 @@
 # Notes
+## AKI
+  1. Lee et. al., 2018 [Prediction of Acute Kidney Injury after Liver Transplantation: Machine Learning Approaches vs. Logistic Regression Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6262324/)
+  2. Burckhardt et al. 2018, [Multi-Trajectory Modeling to Predict Acute Kidney Injury in Chronic Kidney Disease Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371306/) , AMIA Annu Symp Proc
+
 ## RL: Collaborative, Interactive, Robotics
   1. Anca Dragon, 2017, 
   [Robot Planning with Mathematical Models of Human State and Action](https://arxiv.org/abs/1705.04226)
