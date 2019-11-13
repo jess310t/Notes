@@ -7,7 +7,7 @@
   5. Tomasev 2019, Nature, [A clinically applicable approach to continuous prediction of future acute kidney injury](https://www.nature.com/articles/s41586-019-1390-1)
   6. Miksch, [Artificial Intelligence for Decision Support: Needs, Possibilities, and Limitations in ICU](https://link.springer.com/chapter/10.1007/978-88-470-2203-4_85)
   7. Cismondi, 2013, [Reducing unnecessary lab testing in the ICU with artificial intelligence](https://www.sciencedirect.com/science/article/pii/S1386505612002420#bib0145)
-  8. Choi, 2016, [DoctorAI: Predicting Clinical Events via RNN]http://nematilab.info/bmijc/assets/170607_paper.pdf
+  8. Choi, 2016, [DoctorAI: Predicting Clinical Events via RNN](http://nematilab.info/bmijc/assets/170607_paper.pdf)
 ## ODEnet
   1.Schiebinger, 2019, Cell, [Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) 
 ## RL: Collaborative, Interactive, Robotics
