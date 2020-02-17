@@ -10,6 +10,11 @@
   8. Choi, 2016, [DoctorAI: Predicting Clinical Events via RNN](http://nematilab.info/bmijc/assets/170607_paper.pdf)
 ## ODEnet
   1.Schiebinger, 2019, Cell, [Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) 
+  
+## Useful command line
+  1. nano ~/.bashrc; add command to every new shell, e.g. export PATH=$PATH:/newpath/to/add
+  2. env | grep THREADS: display current num of threads set up
+  3. export MKL_NUM_THREADS=1: make number of threads used as 1
 ## RL: Collaborative, Interactive, Robotics
   1. Anca Dragon, 2017, 
   [Robot Planning with Mathematical Models of Human State and Action](https://arxiv.org/abs/1705.04226)
